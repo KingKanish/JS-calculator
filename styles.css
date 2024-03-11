@@ -1,0 +1,39 @@
+.calculator {
+    width: 230px;
+    background-color: #b3d9ff;
+    border-radius: 5px;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #333399;
+}
+
+#display {
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 0;
+    margin-bottom: 10px;
+}
+
+.creator{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+}
